@@ -21,7 +21,8 @@ Soy un desarrollador de software independiente con foco en automatización, aná
 
 ### Predicción de Severidad de Accidentes de Tráfico
 Proyecto de ciencia de datos que analiza registros de accidentes en Madrid. Incluye limpieza de datos, visualización, modelado y evaluación de clasificadores.
-[Ver repositorio](https://github.com/genaropass/accidentes-madrid)
+[Ver repositorio](https://github.com/genaropass/accidentes-madrid-2024
+)
 
 ### Sistema de gestión de turnos automatizado
 Workflow con n8n + Telegram que recibe mensajes de pacientes, interpreta su intención con IA, consulta disponibilidad en Google Sheets y agenda automáticamente.
