@@ -32,7 +32,7 @@ Visualización interactiva con Power BI, basada en consultas frecuentes de clien
 
 ## Contacto
 
-- LinkedIn: [https://www.linkedin.com/in/genaro-agustín-pássero-91698b21b](https://www.linkedin.com/in/genaro-agustín-pássero-91698b21b)
+- LinkedIn: https://www.linkedin.com/in/genaro-p%C3%A1ssero-52a72a3a2/
 - Email: genaropass98@gmail.com
 
 ---
