@@ -29,6 +29,12 @@ Workflow con n8n + Telegram que recibe mensajes de pacientes, interpreta su inte
 ### Dashboard de ventas para productos Apple
 Visualización interactiva con Power BI, basada en consultas frecuentes de clientes. Incluye análisis por modelo, cuotas, tarjetas y colores disponibles.
 
+### Chaquix – Plataforma de Automatización Inteligente
+
+Desarrollo de una plataforma modular de automatización basada en inteligencia artificial para optimizar procesos administrativos y operativos.
+
+Integración de múltiples servicios, automatización de tareas repetitivas, gestión documental y asistentes inteligentes para organizaciones públicas y privadas.
+
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/genaro-p%C3%A1ssero-52a72a3a2/
