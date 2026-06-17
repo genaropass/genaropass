@@ -6,7 +6,6 @@ Soy un desarrollador de software independiente con foco en automatización, aná
 
 - Desarrollo sistemas automatizados con herramientas como Python, n8n, Google Sheets, y APIs de IA como OpenAI.
 - Tengo experiencia diseñando workflows inteligentes para negocios reales (agenda de turnos, respuestas automáticas, dashboards).
-- Actualmente estoy trabajando en un proyecto de predicción de severidad de accidentes de tráfico en Madrid usando Python y Scikit-Learn.
 - Me interesa el cruce entre software, datos y procesos: construir soluciones que ahorren tiempo y mejoren decisiones.
 
 ## Tecnologías y herramientas
