@@ -1,45 +1,35 @@
-# Genaro Pássero
+# Genaro Agustín Pássero
 
-Soy un desarrollador de software independiente con foco en automatización, análisis de datos e inteligencia artificial aplicada. Me especializo en construir soluciones prácticas que integran APIs, modelos de IA y automatización de flujos de trabajo.
-
-## Sobre mí
-
-- Desarrollo sistemas automatizados con herramientas como Python, n8n, Google Sheets, y APIs de IA como OpenAI.
-- Tengo experiencia diseñando workflows inteligentes para negocios reales (agenda de turnos, respuestas automáticas, dashboards).
-- Me interesa el cruce entre software, datos y procesos: construir soluciones que ahorren tiempo y mejoren decisiones.
-
-## Tecnologías y herramientas
-
-- Python, Pandas, NumPy, Scikit-Learn
-- HTML, CSS, JavaScript básico
-- Power BI, SQL (SQLite, MySQL)
-- Git, GitHub, VS Code
-- Automatización con n8n, APIs REST, Webhooks
-
-## Proyectos destacados
-
-### Predicción de Severidad de Accidentes de Tráfico
-Proyecto de ciencia de datos que analiza registros de accidentes en Madrid. Incluye limpieza de datos, visualización, modelado y evaluación de clasificadores.
-[Ver repositorio](https://github.com/genaropass/accidentes-madrid-2024
-)
-
-### Sistema de gestión de turnos automatizado
-Workflow con n8n + Telegram que recibe mensajes de pacientes, interpreta su intención con IA, consulta disponibilidad en Google Sheets y agenda automáticamente.
-
-### Dashboard de ventas para productos Apple
-Visualización interactiva con Power BI, basada en consultas frecuentes de clientes. Incluye análisis por modelo, cuotas, tarjetas y colores disponibles.
-
-### Chaquix – Plataforma de Automatización Inteligente
-
-Desarrollo de una plataforma modular de automatización basada en inteligencia artificial para optimizar procesos administrativos y operativos.
-
-Integración de múltiples servicios, automatización de tareas repetitivas, gestión documental y asistentes inteligentes para organizaciones públicas y privadas.
-
-## Contacto
-
-- LinkedIn: https://www.linkedin.com/in/genaro-p%C3%A1ssero-52a72a3a2/
-- Email: genaropass98@gmail.com
+**Desarrollador de Software & Investigador en Seguridad de IA, Sistemas y Automatización.**  
+Construyo arquitecturas seguras para agentes autónomos, motores Zero-Trust en **Rust** y plataformas de automatización inteligente en **Python**.
 
 ---
 
-Gracias por visitar mi perfil. Estoy abierto a proyectos freelance, colaboraciones y nuevos desafíos en tecnología.
+## 🛠️ Stack Técnico
+
+- **Sistemas & Seguridad (Low-Level / Zero-Trust):** Rust (`#![no_std]`), arquitecturas de capacidades, DIFC, criptografía poscuántica (WOTS+, SHA-256), MCP (Model Context Protocol), EVM RLP / EIP-712.
+- **IA Aplicada & Automatización:** Python, LLMs (OpenAI, Claude, Ollama), LangChain, n8n, APIs REST, Webhooks.
+- **Datos & Backend:** SQL (PostgreSQL, MySQL, SQLite), Pandas, NumPy, Scikit-Learn, Power BI, Git, Linux.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🛡️ [GenOS](https://github.com/genaropass/Gen-OS) — *Zero-Trust Security Architecture for AI Agents & Custody (Rust)*
+Arquitectura open-source en Rust puro (0 dependencias externas, 97 tests) para frenar *Indirect Prompt Injection* y firmas a ciegas (*Blind Signing*):
+- **`genos-guard`**: Proxy MCP con seguimiento de contaminación (DIFC), prevención de fuga de secretos (DLP), *Escrow* transaccional y auditoría causal (`why`).
+- **`genos-sentinel`**: Perímetro Zero-Trust (IPs/CIDR y binarios firmados) + co-firmante independiente (RLP Ethereum, EIP-7702, Safe{Wallet}) con *Circuit Breaker* global.
+- **`genos-kernel`**: Prototipo experimental de microkernel bare-metal `x86-64` UEFI.
+
+### 🧬 [Lattice-Bio](https://github.com/genaropass/Lattice-Bio)
+Investigación y desarrollo computacional aplicado a bioinformática y modelado estructural.
+
+### ⚡ Chaquix — *Plataforma de Automatización Inteligente*
+Plataforma modular basada en IA para optimizar procesos operativos, gestión documental, agentes de atención y orquestación de servicios en organizaciones públicas y privadas.
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [linkedin.com/in/genaro-pássero](https://www.linkedin.com/in/genaro-p%C3%A1ssero-52a72a3a2/)
+- **Email:** `genaropass98@gmail.com` / `passerogenaro@gmail.com`
