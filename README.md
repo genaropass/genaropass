@@ -24,7 +24,7 @@ Arquitectura open-source en Rust puro (0 dependencias externas, 97 tests) para f
 ### 🧬 [Lattice-Bio](https://github.com/genaropass/Lattice-Bio)
 Investigación y desarrollo computacional aplicado a bioinformática y modelado estructural.
 
-### ⚡ [Chaquix](https://github.com/genaropass/Chaquix) — *Plataforma de Automatización Inteligente*
+### ⚡ Chaquix — *Plataforma de Automatización Inteligente*
 Plataforma modular basada en IA para optimizar procesos operativos, gestión documental, agentes de atención y orquestación de servicios en organizaciones públicas y privadas.
 
 ---
